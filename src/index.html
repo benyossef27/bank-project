@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./style.css" />
+
     <title>Bankist | When Banking meets Minimalist</title>
   </head>
   <body>
@@ -80,9 +80,7 @@
         <div class="features__feature">
           <div class="features__icon">
             <svg>
-              <use
-                xlink:href="<%= require('./img/icons.svg#icon-monitor')%>"
-              ></use>
+              <use href="<%= require('./img/icons.svg#icon-monitor')%>"></use>
             </svg>
           </div>
           <h5 class="features__header">100% digital bank</h5>
@@ -371,7 +369,5 @@
       </form>
     </div>
     <div class="overlay hidden"></div>
-
-    <script src="script.js"></script>
   </body>
 </html>
