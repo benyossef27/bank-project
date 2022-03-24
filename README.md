@@ -7,3 +7,4 @@ The project Dmoenstraits the JS functionality I've learbed and writen during the
 [JS doc](https://github.com/benyossef27/bank-project/blob/main/src/script.js)
 
 Course by Theacher [Jonas Schmedtmann](https://codingheroes.io/)
+.
