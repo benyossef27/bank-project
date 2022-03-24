@@ -241,5 +241,3 @@ function slider() {
   });
 }
 slider();
-
-document.addEventListener('DOMContentLoaded', function (e) {});
